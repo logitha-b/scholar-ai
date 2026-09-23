@@ -1,0 +1,25 @@
+# Node dependencies
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# SQLite & Data
+*.db
+*.sqlite3
+
+# IDE & OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

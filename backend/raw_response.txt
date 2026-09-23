@@ -1,0 +1,69 @@
+{
+  "overall_score": 6.0,
+  "grammar_errors": [
+    {
+      "error": "Using the adjective 'everyday' instead of the adverbial phrase 'every day'",
+      "correction": "every day",
+      "sentence": "I think that calculus is very important for engineering subjects and basically we use it everyday."
+    }
+  ],
+  "filler_words": {
+    "basically": 1
+  },
+  "filler_count": 1,
+  "pronunciation_tips": [
+    "Ensure clear distinction between the /v/ sound in 'very' (bite your lower lip) and the /w/ sound in 'we' (round your lips).",
+    "Pronounce 'calculus' as /ˈkælkjʊləs/ ('kal-kyuh-luhs') rather than drawing out the 'u' as 'coolus'.",
+    "In 'engineering', place the primary stress on the third syllable: en-gi-NEER-ing."
+  ],
+  "vocabulary_suggestions": [
+    {
+      "word_used": "very important",
+      "better_word": "indispensable / fundamental",
+      "context": "calculus is indispensable for engineering..."
+    },
+    {
+      "word_used": "subjects",
+      "better_word": "disciplines / domains",
+      "context": "engineering disciplines"
+    },
+    {
+      "word_used": "use it",
+      "better_word": "apply its principles",
+      "context": "we apply its principles daily"
+    }
+  ],
+  "content_score": 5.0,
+  "delivery_score": 6.0,
+  "key_points_covered": [
+    "Calculus is essential for engineering studies.",
+    "Calculus has practical applications in daily life."
+  ],
+  "missing_points": [
+    "Specific examples of how calculus is applied in engineering (e.g., optimization, structural analysis, electromagnetism).",
+    "An explanation of how 'everyday' people use calculus, or if this applies specifically to technical careers.",
+    "A brief definition of what calculus entails (differentiation and integration)."
+  ],
+  "top_improvements": [
+    "Elaborate on your ideas: Instead of a single sentence, try to speak for at least 1-2 minutes by providing examples and explanations.",
+    "Minimize the use of casual transition fillers like 'basically' to sound more authoritative and professional.",
+    "Structure your response with an Introduction (state the topic), Body (give 2 distinct examples), and Conclusion."
+  ],
+  "positive_feedback": "You successfully identified the strong link between calculus and engineering, and your core message was communicated clearly and directly."
+without unnecessary jargon."
+complexities."
+jargon."
+argon."
+argon."
+
+argon."
+
+
+
+
+
+
+
+"
+"
+}
