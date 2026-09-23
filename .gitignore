@@ -18,6 +18,12 @@ env/
 *.db
 *.sqlite3
 
+# Uploads & Temp Files
+uploads/
+backend/uploads/
+backend/raw_response.txt
+backend/dummy_resume.txt
+
 # IDE & OS
 .DS_Store
 Thumbs.db
