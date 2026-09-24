@@ -1,5 +1,12 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/frontend/index.html" }
+    {
+      "source": "/api/:path*",
+      "destination": "https://scholar-ai-hjmi.onrender.com/api/:path*"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/frontend/index.html"
+    }
   ]
 }
